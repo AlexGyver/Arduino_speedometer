@@ -1,6 +1,12 @@
 # Arduino based speedometer
+## Project description
+- Calculates speed of revolving object by magnetic hall sensor
+- Displays speed via servo in "analog-like" scale
+- Displays odo (distance)
+- Keeps traveled distance in EEPROM, so it is not zero after reboot
+- [Quick start with Arduino](https://learn.sparkfun.com/tutorials/installing-arduino-ide)
 
-## Scheme
+## Schematics
 ![Speedometer 1.0](https://github.com/AlexGyver/Arduino_speedometer/blob/master/Screenshot_12.jpg)
 
 ## Page on Instructables
