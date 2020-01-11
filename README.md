@@ -13,10 +13,9 @@
 https://www.instructables.com/id/DIY-Speedometer-on-Arduino/
 
 ## Components
-* Arduino NANO http://ali.pub/pd9j7
-* Hall sensor http://ali.pub/v9li4
-* Servo http://ali.pub/ukaeg
-* Display http://ali.pub/b8fzv
-* 5V dcdc step up http://ali.pub/u5pg9
-* Lithium charger http://ali.pub/zvytc
-* Connect components by scheme.
+* Arduino NANO https://ali.ski/SquqA9
+* Hall sensor https://ali.ski/qDTbI
+* Servo https://ali.ski/Xe6hYk
+* Display https://ali.ski/E9INh
+* 5V dcdc step up hhttps://ali.ski/8wcSE
+* Lithium charger https://ali.ski/4loD7X
